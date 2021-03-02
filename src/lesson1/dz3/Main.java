@@ -11,7 +11,7 @@ public class Main {
         boxO1.put(new Orange(), new Orange());
 
         System.out.println(boxA1.compare(boxO1));
-
+        //System.out.println();
 
     }
 }
